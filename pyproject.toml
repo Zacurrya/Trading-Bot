@@ -1,0 +1,12 @@
+[project]
+name = "Trading_Bot"
+version = "0.0.1"
+dependencies = [
+    "pandas",
+    "ta-lib",
+    "oandapyV20"
+    ]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"

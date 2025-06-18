@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/Trading_Bot/__init__.py
+src/Trading_Bot/config.py
+src/Trading_Bot.egg-info/PKG-INFO
+src/Trading_Bot.egg-info/SOURCES.txt
+src/Trading_Bot.egg-info/dependency_links.txt
+src/Trading_Bot.egg-info/requires.txt
+src/Trading_Bot.egg-info/top_level.txt
+src/Trading_Bot/GUI/App.py
+src/Trading_Bot/GUI/Bot_Config.py
+src/Trading_Bot/GUI/Log.py
+src/Trading_Bot/GUI/Timer.py
+src/Trading_Bot/Logic/bot.py

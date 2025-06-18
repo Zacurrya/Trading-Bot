@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: Trading_Bot
+Version: 0.0.1
+Requires-Dist: pandas
+Requires-Dist: ta-lib
+Requires-Dist: oandapyV20
